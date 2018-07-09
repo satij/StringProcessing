@@ -1,0 +1,17 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\StringProcessTest.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\StringProcessTest.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\StringProcessing.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\StringProcessing.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\StringProcessing.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\obj\Debug\StringProcessTest.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\obj\Debug\StringProcessTest.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\obj\Debug\StringProcessTest.csproj.CopyComplete
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\obj\Debug\StringProcessTest.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessTest\obj\Debug\StringProcessTest.pdb

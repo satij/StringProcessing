@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing\bin\Debug\StringProcessing.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing\bin\Debug\StringProcessing.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing\bin\Debug\StringProcessing.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing\obj\Debug\StringProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing\obj\Debug\StringProcessing.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing\obj\Debug\StringProcessing.pdb

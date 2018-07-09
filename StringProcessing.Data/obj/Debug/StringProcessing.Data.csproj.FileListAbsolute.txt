@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing.Data\bin\Debug\StringProcessing.Data.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing.Data\bin\Debug\StringProcessing.Data.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing.Data\obj\Debug\StringProcessing.Data.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing.Data\obj\Debug\StringProcessing.Data.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing.Data\obj\Debug\StringProcessing.Data.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\StringProcessing\StringProcessing.Data\obj\Debug\StringProcessing.Data.pdb
